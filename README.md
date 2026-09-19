@@ -1,7 +1,7 @@
 # Petar — Student Portfolio Website
 
 A personal developer portfolio website built as a learning project and portfolio piece.
-
+(Currently not using SQL yet)
 The goal of this project is to build a small full-stack web application while understanding how the different parts communicate with each other instead of relying on pre-built templates.
 
 ## Project Goals
