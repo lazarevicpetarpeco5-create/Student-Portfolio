@@ -1,18 +1,20 @@
-
-    [
-       {
-        "id": 1,
-        "name": "TCP-HTTP-ChatServer",
-        "language": "C++"
-       },
-       {
-        "id": 2,
-        "name": "Village-Wars",
-        "language": "C"
-       },
-       {
-        "id": 3,
-        "name": "SmartDeal",
-        "language": "Python"
-       }
-    ]
+[
+  {
+    "id": 1,
+    "name": "TCP-HTTP-ChatServer",
+    "language": "C++",
+    "icon": "/icons/server.png"
+  },
+  {
+    "id": 2,
+    "name": "Village-Wars",
+    "language": "C",
+    "icon": "/icons/game.png"
+  },
+  {
+    "id": 3,
+    "name": "SmartDeal",
+    "language": "Python",
+    "icon": "/icons/app.png"
+  }
+]
